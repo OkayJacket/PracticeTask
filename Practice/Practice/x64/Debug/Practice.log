@@ -1,0 +1,12 @@
+﻿  Practice.cpp
+C:\Programms\PracticeTask\Practice\Practice\Practice.cpp(23,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Programms\PracticeTask\Practice\Practice\Practice.cpp(25,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Programms\PracticeTask\Practice\Practice\Practice.cpp(27,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Programms\PracticeTask\Practice\Practice\Practice.cpp(33,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Programms\PracticeTask\Practice\Practice\Practice.cpp(35,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Programms\PracticeTask\Practice\Practice\Practice.cpp(43,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Programms\PracticeTask\Practice\Practice\Practice.cpp(102,20): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Programms\PracticeTask\Practice\Practice\Practice.cpp(154,29): error C2131: выражение не определяется константой
+C:\Programms\PracticeTask\Practice\Practice\Practice.cpp(154,29): message : сбой вызван чтением переменной вне срока ее существования
+C:\Programms\PracticeTask\Practice\Practice\Practice.cpp(154,29): message : см. использование "numSystems"
+C:\Programms\PracticeTask\Practice\Practice\Practice.cpp(152,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
